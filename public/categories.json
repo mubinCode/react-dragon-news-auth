@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "category": "Breakingnews"
+    },
+    {
+        "id": 2,
+        "category": "National"
+    },
+    {
+        "id": 3,
+        "category": "International"
+    },
+    {
+        "id": 4,
+        "category": "Entertainment"
+    },
+    {
+        "id": 5,
+        "category": "Sports"
+    }
+]
